@@ -1,0 +1,16 @@
+D:\Google Drive\Trabajo\SMS Masivos\Tecnica\APIWHA (Skillmedia API)\Ejemplos de código\C#\C#\APIWHA\APIWHA\bin\Debug\APIWHA.exe
+D:\Google Drive\Trabajo\SMS Masivos\Tecnica\APIWHA (Skillmedia API)\Ejemplos de código\C#\C#\APIWHA\APIWHA\bin\Debug\APIWHA.pdb
+D:\Google Drive\Trabajo\SMS Masivos\Tecnica\APIWHA (Skillmedia API)\Ejemplos de código\C#\C#\APIWHA\APIWHA\obj\x86\Debug\APIWHA.csprojResolveAssemblyReference.cache
+D:\Google Drive\Trabajo\SMS Masivos\Tecnica\APIWHA (Skillmedia API)\Ejemplos de código\C#\C#\APIWHA\APIWHA\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Google Drive\Trabajo\SMS Masivos\Tecnica\APIWHA (Skillmedia API)\Ejemplos de código\C#\C#\APIWHA\APIWHA\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Google Drive\Trabajo\SMS Masivos\Tecnica\APIWHA (Skillmedia API)\Ejemplos de código\C#\C#\APIWHA\APIWHA\obj\x86\Debug\APIWHA.csproj.GenerateResource.Cache
+D:\Google Drive\Trabajo\SMS Masivos\Tecnica\APIWHA (Skillmedia API)\Ejemplos de código\C#\C#\APIWHA\APIWHA\obj\x86\Debug\APIWHA.exe
+D:\Google Drive\Trabajo\SMS Masivos\Tecnica\APIWHA (Skillmedia API)\Ejemplos de código\C#\C#\APIWHA\APIWHA\obj\x86\Debug\APIWHA.pdb
+C:\Users\Siamzu\Desktop\Envio Whatsaap\APIWHA\APIWHA\obj\x86\Debug\APIWHA.exe
+C:\Users\Siamzu\Desktop\Envio Whatsaap\APIWHA\APIWHA\obj\x86\Debug\APIWHA.pdb
+C:\Users\Siamzu\Desktop\Envio Whatsaap\APIWHA\APIWHA\bin\Debug\APIWHA.exe
+C:\Users\Siamzu\Desktop\Envio Whatsaap\APIWHA\APIWHA\bin\Debug\APIWHA.pdb
+C:\Users\Siamzu\Desktop\Envio Whatsaap\APIWHA\APIWHA\obj\x86\Debug\APIWHA.csprojResolveAssemblyReference.cache
+C:\Users\Siamzu\Desktop\Envio Whatsaap\APIWHA\APIWHA\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Siamzu\Desktop\Envio Whatsaap\APIWHA\APIWHA\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Siamzu\Desktop\Envio Whatsaap\APIWHA\APIWHA\obj\x86\Debug\APIWHA.csproj.GenerateResource.Cache
